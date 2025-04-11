@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jeeyuni
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+## 👋 Hi, I’m Jiyun! 
+
+- 👀 I’m interested in UI/UX Deisgn and Game Developing
+- 🌱 I’m currently learning python and MongoDB
+- 💞️ I’m looking to collaborate! 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yuni.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiyun-lee2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuri12071112@gmail.com) 
 
