@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Jiyun! 
 
 - 👀 I’m interested in UI/UX Deisgn and Game Developing
-- 🌱 I’m currently learning python and MongoDB
+- 🌱 I’m currently learning Python and Figma!
 - 💞️ I’m looking to collaborate! 
 
 ## 🌐 Socials:
